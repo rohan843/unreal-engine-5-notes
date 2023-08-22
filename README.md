@@ -20,3 +20,7 @@ The various components of an event graph are:
 4. **Pins**: Sockets (input/output) in nodes that we can connect.
    1. **Input Pin**: _When_ to run this node.
    2. **Output Pin**: What to do _after_ running this node.
+5. **Connection**: It is a 'wire' between pins.
+6. **Actor**: Any object that goes in a level.
+7. **Component**: Objects that go _on_ an actor.
+8. 
