@@ -23,4 +23,3 @@ The various components of an event graph are:
 5. **Connection**: It is a 'wire' between pins.
 6. **Actor**: Any object that goes in a level.
 7. **Component**: Objects that go _on_ an actor.
-8. 
